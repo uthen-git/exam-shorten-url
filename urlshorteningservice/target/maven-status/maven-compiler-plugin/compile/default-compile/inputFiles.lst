@@ -1,0 +1,10 @@
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/repository/UrlRepository.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/model/Url.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/service/UrlServiceImpl.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/model/UrlDto.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/model/UrlErrorResponseDto.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/model/UrlResponseDto.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/service/UrlService.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/Controller/UrlShorteningController.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/UrlShorteningServiceApplication.java
+/Users/uthensungun/work/exam/urlshorteningservice/src/main/java/com/uthendev/urlShorteningService/MyConfig.java

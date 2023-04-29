@@ -1,0 +1,13 @@
+version: "3"
+services:
+    url-shortening-web:
+        build: ./urlshoteningweb
+        ports:
+            - "82:80"
+    url-shortening-service:
+        build: ./urlshorteningservice
+        ports:
+            - "8080:8080"
+        depends_on:
+            - url-shortening-web
+
